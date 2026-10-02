@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cat \"${CLAUDE_PLUGIN_ROOT}/konteks/aturan-mahasiswa.md\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}
