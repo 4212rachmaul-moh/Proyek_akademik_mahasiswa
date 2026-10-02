@@ -1,6 +1,6 @@
 # Akademik Terpadu Versi Mahasiswa
 
-Plugin pembimbing akademik berbahasa Indonesia untuk mahasiswa. Sebagai pemandu menyusun paragraf, argumen, artikel, esai, makalah, skripsi, tesis dan disertasi.
+Plugin pembimbing akademik berbahasa Indonesia untuk mahasiswa (hadiah untuk mahasiswa dan alumni PBA UINSSC). Sebagai pemandu menyusun paragraf, argumen, artikel, esai, makalah, skripsi, tesis dan disertasi.
 
 ## Yang tidak dilakukan
 
