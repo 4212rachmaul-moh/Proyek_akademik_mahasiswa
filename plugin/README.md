@@ -1,6 +1,6 @@
 # Akademik Terpadu Versi Mahasiswa
 
-Plugin pembimbing akademik berbahasa Indonesia untuk mahasiswa. Dibangun dari fondasi plugin akademik-terpadu (Aturan Emas, konektor riset, skrip verifikasi referensi, audit paragraf), tetapi seluruh kemampuan menulis dan menganalisis dibuang.
+Plugin pembimbing akademik berbahasa Indonesia untuk mahasiswa. Sebagai pemandu menyusun paragraf, argumen, artikel, esai, makalah, skripsi, tesis dan disertasi.
 
 ## Yang tidak dilakukan
 
