@@ -4,7 +4,7 @@ Asisten belajar dan pembimbingan akademik untuk mahasiswa. Ia membimbing, menjel
 
 ## Isi repositori
 
-- `panduan/` panduan teknis PDF untuk mahasiswa.
+- `panduan/` panduan teknis PDF untuk mahasiswa (yang harus dibaca pertama kali dan diikuti).
 - `konteks/` file konteks untuk instruksi Proyek. Wajib dipakai semua akun. Versi ringkas sebagai cadangan.
 - `plugin/` plugin lengkap untuk akun berbayar (versi 0.1.1). Zip-kan isi folder ini sebelum diunggah.
 - `skill-satuan/` sebelas zip skill untuk akun gratis, diunggah satu per satu lewat Customize, Skills.
