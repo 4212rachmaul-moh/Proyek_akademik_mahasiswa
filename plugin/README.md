@@ -48,4 +48,4 @@ Skrip belangko diuji otomatis, yaitu `python skills/belangko-penelitian/scripts/
 
 ## Lisensi
 
-Referensi stop-slop di skill periksa-paragraf berlisensi MIT (Hardik Pandya), berkas lisensi disertakan.
+Referensi stop-slop di skill periksa-paragraf berlisensi MIT.
