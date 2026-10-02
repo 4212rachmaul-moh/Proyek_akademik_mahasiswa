@@ -24,17 +24,11 @@ Tidak menulis atau memparafrase proposal, skripsi, tesis, disertasi, artikel, ma
 
 Skill berjumlah 11. Lima agen pendukung, yaitu verifikator-sumber, penantang-argumen, penguji-metodologi, auditor-gaya, dan reviewer-kelayakan, semuanya hanya mengevaluasi.
 
-## Dibuang dari plugin dosen
-
-naskah-tugas-akhir, artikel-jurnal, buku-dari-ide, buku-dari-riset, hibah-penelitian, naskah-akademik-kebijakan, proofread-terjemah, tinjauan-sistematis, bagan-kerangka, mentor-riset (karena menghasilkan dokumen dan menjalankan skrip analisis), serta seluruh skrip analisis statistik dan SEM. Yang tidak ada tidak bisa dipanggil.
 
 ## Hierarki sumber
 
 Rujukan utama verifikasi konsep adalah literatur internasional bereputasi. Sumber SINTA hanya menambah wawasan. Rincian di `skills/ensiklopedia-konsep/references/hierarki-sumber.md`.
 
-## Perubahan v0.1.1
-
-Skill ensiklopedia-konsep, hierarki sumber, batas keras dimuat di tiap skill karena hook tidak dimuat di chat, dan peta konektor serta hierarki sumber disalin ke dalam folder skill yang memakainya.
 
 ## Pemasangan
 
