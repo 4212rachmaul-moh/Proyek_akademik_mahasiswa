@@ -11,14 +11,14 @@ Asisten belajar dan pembimbingan akademik untuk mahasiswa (Hadiah untuk mahasisw
 
 ## Pemasangan singkat
 
-1. Buat akun bisa menggunakan google
-2. Unduh Folder Plugin dan jadikan file zip
+1. Buat akun bisa menggunakan google.
+2. Unduh Folder Plugin dan jadikan file zip.
 3. Semua akun: pasang plugin. Buka Kustomisasi -> plugin -> Tambahkan -> unggah plugin.
 4. Semua akun: Hubungkan semua konektor (membutuhkan login di setiap konektor). Buka Kustomisasi -> plugin -> Milik Anda -> Akademik Terpadu Mahasiswa -> konektor.
-5. Jika konektor tidak muncul di plugin: Buka Kustomisasi -> Konektor -> hubungkan secara manual konektor Consensus, Scholar Gateway, PubMed, Elicit, Undermind, You.com, dan Exa
+5. Jika konektor tidak muncul di plugin: Buka Kustomisasi -> Konektor -> hubungkan secara manual konektor Consensus, Scholar Gateway, PubMed, Elicit, Undermind, You.com, dan Exa.
 6. Semua akun: Buat Proyek. Buka proyek -> Proyek baru -> Beri nama dan deskripsi proyek secara bebas terserah Anda.
-7. Buat instruksi proyek. Pada bagian Proyek -> pilih tambah di instruksi copast semua di file konteks-proyek-mahasiswa.txt -> simpan
-8. Unduh belangko dan extract. Upload semua belangko di konteks proyek
+7. Buat instruksi proyek. Pada bagian Proyek -> pilih tambah di instruksi copast semua di file konteks-proyek-mahasiswa.txt -> simpan.
+8. Unduh belangko dan extract. Upload semua belangko di konteks proyek.
 
 
 
