@@ -1,27 +1,23 @@
 # Akademik Terpadu Mahasiswa
 
-Asisten belajar dan pembimbingan akademik untuk mahasiswa. Ia membimbing, menjelaskan konsep, memverifikasi sumber, dan menuntun cara memakai aplikasi analisis. Ia tidak menulis karya mahasiswa dan tidak menganalisis data.
+Asisten belajar dan pembimbingan akademik untuk mahasiswa. Ia membimbing, menjelaskan konsep, memverifikasi sumber, dan menuntun cara memakai aplikasi analisis. Ia tidak menulis karya mahasiswa dan tidak menganalisis data namun mengarahkan untuk menyusun makalah, esai, artikel, proposal, skripsi, tesis, dan disertasi.
 
 ## Isi repositori
 
-- `panduan/` panduan teknis PDF untuk mahasiswa (yang harus dibaca pertama kali dan diikuti).
 - `konteks/` file konteks untuk instruksi Proyek. Wajib dipakai semua akun. Versi ringkas sebagai cadangan.
-- `plugin/` plugin lengkap untuk akun berbayar (versi 0.1.1). Zip-kan isi folder ini sebelum diunggah.
-- `skill-satuan/` sebelas zip skill untuk akun gratis, diunggah satu per satu lewat Customize, Skills.
-- `belangko/` dua puluh satu belangko penelitian kosong.
+- `plugin/` plugin lengkap untuk akun berbayar (versi 0.1.1) versi gratis beberapa fitur tidak berjalan. Zip-kan isi folder ini sebelum diunggah.
+- `skill-satuan/` sebelas zip skill jika plugin gagal dipasang, diunggah satu per satu lewat Customize, Skills.
+- `belangko/` dua puluh satu belangko penelitian kosong untuk diunggah di konteks proyek.
 
 ## Pemasangan singkat
 
-1. Semua akun: buat Proyek, tempel isi `konteks/konteks-proyek-mahasiswa.txt` ke instruksi proyek.
-2. Akun berbayar: pasang plugin. Akun gratis: unggah skill satuan.
-3. Unduh belangko yang diperlukan.
+1. Buat akun bisa menggunakan google
+2. Semua akun: pasang plugin. Buka Kustomisasi -> plugin -> Tambahkan -> unggah plugin.
+3. Semua akun: Hubungkan semua konektor (membutuhkan login di setiap konektor). Buka Kustomisasi -> plugin -> Milik Anda -> Akademik Terpadu Mahasiswa -> konektor.
+4. Semua akun: Buat Proyek. Buka proyek -> Proyek baru -> Beri nama dan deskripsi proyek secara bebas terserah Anda.
+5. Buat instruksi proyek. Pada bagian Proyek -> pilih tambah di instruksi copast semua di file konteks-proyek-mahasiswa.txt -> simpan
+6. Unduh belangko dan extract. Upload semua belangko di konteks proyek
 
-Langkah rinci ada di PDF panduan.
 
-## Batas yang perlu diketahui
 
-- Plugin hanya tersedia di paket berbayar menurut dokumentasi resmi Claude. Akun gratis memakai skill satuan.
-- Hook dan agen tidak dimuat di chat, jadi aturan ketat bertumpu pada file konteks dan teks di tiap skill.
-- Penjagaan lewat instruksi, bukan penghalang teknis.
-- Kampus belum memiliki kebijakan resmi tentang penggunaan AI.
-- Ambang statistik dan nama menu aplikasi perlu dicek per versi.
+
