@@ -1,6 +1,6 @@
 # Akademik Terpadu Mahasiswa
 
-Asisten belajar dan pembimbingan akademik untuk mahasiswa semua jurusan (Hadiah untuk mahasiswa dan alumni PBA UINSSC). Ia membimbing, menjelaskan konsep, memverifikasi sumber, dan menuntun cara memakai aplikasi analisis dan menafsirkannya. Ia membimbing dan mengarahkan untuk menyusun makalah, esai, artikel, proposal, skripsi, tesis, dan disertasi secara legal dan tidak melnggar etika akademik.
+Asisten belajar dan pembimbingan akademik untuk mahasiswa semua jurusan (Hadiah untuk mahasiswa dan alumni PBA UINSSC). Ia membimbing, menjelaskan konsep, memverifikasi sumber, dan menuntun cara memakai aplikasi analisis dan menafsirkannya. Ia membimbing dan mengarahkan untuk menyusun makalah, esai, artikel, proposal, skripsi, tesis, dan disertasi tisak melanggar hukum dan tidak melnggar etika akademik.
 
 ## Isi repositori
 
