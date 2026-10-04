@@ -5,7 +5,7 @@ Asisten belajar dan pembimbingan akademik untuk mahasiswa (Hadiah untuk mahasisw
 ## Isi repositori
 
 - `konteks/` file konteks untuk instruksi Proyek. Wajib dipakai semua akun. Versi ringkas sebagai cadangan.
-- `plugin/` plugin lengkap untuk akun berbayar (versi 0.1.1) versi gratis beberapa fitur tidak berjalan. Zip-kan isi folder ini sebelum diunggah.
+- `plugin/` plugin lengkap Zip-kan isi folder ini sebelum diunggah.
 - `skill-satuan/` sebelas zip skill jika plugin gagal dipasang, diunggah satu per satu lewat Customize, Skills.
 - `belangko/` dua puluh satu belangko penelitian kosong untuk diunggah di konteks proyek.
 
